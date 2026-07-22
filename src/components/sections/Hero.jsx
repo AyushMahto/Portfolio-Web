@@ -50,7 +50,7 @@ export default function Hero() {
           className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass text-xs font-mono uppercase tracking-widest mb-8"
         >
           <Sparkles size={13} className="text-amber-400" />
-          Open to Data Analyst internships & full-time roles
+          Open to internships & full-time roles
         </motion.div>
 
         <motion.h1
