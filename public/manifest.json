@@ -1,0 +1,8 @@
+{
+  "name": "Ayush Sharma | Data Analyst Portfolio",
+  "short_name": "Ayush Sharma",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "theme_color": "#7C5CFC",
+  "background_color": "#05060A",
+  "display": "standalone"
+}
