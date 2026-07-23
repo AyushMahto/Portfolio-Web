@@ -35,14 +35,14 @@ export const experience = [
 export const education = [
   {
     degree: 'B.Tech, Computer Science & Engineering',
-    school: 'Your University Name',
-    period: '2022 — 2026',
-    detail: 'Relevant coursework: Database Systems, Statistics, Data Structures, Business Analytics.',
+    school: 'MIT ADT University',
+    period: '2023 — 2027',
+    detail: 'Relevant coursework: Database Systems, Statistics, Data Structures, Business Analytics, Machine Learning.',
   },
   {
     degree: 'Higher Secondary (PCM)',
-    school: 'Your School Name',
-    period: '2020 — 2022',
+    school: 'Glory English Medium School, PUNE',
+    period: '2021 — 2022',
     detail: 'Focused on Mathematics and Computer Science.',
   },
 ]
